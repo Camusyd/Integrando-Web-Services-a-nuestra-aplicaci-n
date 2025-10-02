@@ -24,6 +24,21 @@ El corazón de PETS reside en su capacidad de interactuar con plataformas extern
 
 ---
 
+## 🎓 Conocimiento y Certificaciones
+
+Este proyecto se basa en los conocimientos adquiridos en desarrollo móvil y tecnologías de vanguardia, destacando:
+
+### Curso Completo
+* **Desarrollo de Aplicaciones Avanzadas con Android**
+    * **Impartido por:** Universidad Nacional Autónoma de México (UNAM)
+    * **Plataforma:** Coursera
+    * **Enlace al Curso:** [https://www.coursera.org/programs/la-nueva-america-uyxoj/learn/aplicaciones-android?collectionId=3PUlf](https://www.coursera.org/programs/la-nueva-america-uyxoj/learn/aplicaciones-android?collectionId=3PUlf)
+    
+### Certificado de Finalización
+* **Ver Certificado:** [https://coursera.org/share/9037eb94332578b07f259dd8ec66b7bb](https://coursera.org/share/9037eb94332578b07f259dd8ec66b7bb)
+    
+---
+
 ## 📂 Archivos del Repositorio (Prototipos y Documentación)
 
 Este repositorio contiene los archivos de diseño, prototipos y la documentación técnica de las distintas fases del proyecto.
