@@ -58,7 +58,7 @@ Este proyecto pertenece al **Curso 4** del **Programa Especializado: Desarrollo 
 * **Curso 3: Desarrollo de aplicaciones con Android:** [Ver Certificado](https://coursera.org/share/72a853dc78e63554db74ecd9e5738293)
 * **Curso 4: Desarrollo de aplicaciones avanzadas con Android:** [Ver Certificado](https://coursera.org/share/9037eb94332578b07f259dd8ec66b7bb)
 
-* **Enlace al :** [Programa especializado: Desarrollo de aplicaciones móviles con Android](https://www.coursera.org/specializations/programacion-android)
+### Enlace al Programa especializado:[ Desarrollo de aplicaciones móviles con Android](https://www.coursera.org/specializations/programacion-android)
 
 ---
 
