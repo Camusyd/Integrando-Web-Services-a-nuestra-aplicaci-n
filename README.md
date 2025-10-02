@@ -4,6 +4,8 @@
 
 PETS es una red social diseñada para conectar a dueños de mascotas, entusiastas de los animales y creadores de contenido.
 
+**PROYECTO COLABORATIVO:** Este trabajo fue desarrollado en equipo junto a **Leidy Lorena Osorio**, quien contribuyó significativamente al diseño, la documentación y la implementación de los módulos.
+
 **Nuestra Misión:** Centralizar la alegría de tener una mascota. Conéctate con otros dueños, comparte momentos especiales y mantente al día con las últimas novedades del mundo animal, todo en un solo lugar.
 
 ---
