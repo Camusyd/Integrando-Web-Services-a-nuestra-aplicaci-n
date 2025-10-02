@@ -51,8 +51,14 @@ Este proyecto pertenece al **Curso 4** del **Programa Especializado: Desarrollo 
 | **Módulo 6** | **Transiciones Material Design** | Aplicación de estilos con **Material Design**, creación de **animaciones y transiciones**. |
 
 ### Certificado de Finalización
+
 * **Enlace al Curso:** [https://www.coursera.org/programs/la-nueva-america-uyxoj/learn/aplicaciones-android?collectionId=3PUlf](https://www.coursera.org/programs/la-nueva-america-uyxoj/learn/aplicaciones-android?collectionId=3PUlf)
-* **Ver Certificado:** [https://coursera.org/share/9037eb94332578b07f259dd8ec66b7bb](https://coursera.org/share/9037eb94332578b07f259dd8ec66b7bb)
+
+### Certificados Obtenidos (Coursera - UNAM)
+* **Curso 1: Programando con Java para aplicaciones Android:** [Ver Certificado](https://coursera.org/share/ae3943d9c45572ed6a4edf113e7eede1)
+* **Curso 2: Fundamentos de Android:** [Ver Certificado](https://coursera.org/share/236dc21e0cc583a98b56fba9908f3932)
+* **Curso 3: Desarrollo de aplicaciones con Android:** [Ver Certificado](https://coursera.org/share/72a853dc78e63554db74ecd9e5738293)
+* **Curso 4: Desarrollo de aplicaciones avanzadas con Android:** [Ver Certificado](https://coursera.org/share/9037eb94332578b07f259dd8ec66b7bb)
 
 ---
 
