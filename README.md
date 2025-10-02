@@ -26,17 +26,34 @@ El corazón de PETS reside en su capacidad de interactuar con plataformas extern
 
 ## 🎓 Conocimiento y Certificaciones
 
-Este proyecto se basa en los conocimientos adquiridos en desarrollo móvil y tecnologías de vanguardia, destacando:
+Este proyecto se basa en el conocimiento y las habilidades adquiridas en el curso de **Desarrollo de aplicaciones avanzadas con Android** impartido por la **UNAM**.
 
-### Curso Completo
-* **Desarrollo de Aplicaciones Avanzadas con Android**
-    * **Impartido por:** Universidad Nacional Autónoma de México (UNAM)
-    * **Plataforma:** Coursera
-    * **Enlace al Curso:** [https://www.coursera.org/programs/la-nueva-america-uyxoj/learn/aplicaciones-android?collectionId=3PUlf](https://www.coursera.org/programs/la-nueva-america-uyxoj/learn/aplicaciones-android?collectionId=3PUlf)
-    
+### Trayectoria en el Programa Especializado
+
+Este proyecto pertenece al **Curso 4** del **Programa Especializado: Desarrollo de aplicaciones móviles con Android**, faltando solo el **Curso 5 (Proyecto Final)** para finalizar el programa completo.
+
+| Curso Completado | Enfoque Principal | Horas |
+| :--- | :--- | :--- |
+| **CURSO 1:** Programando con Java para aplicaciones Android | Bases del lenguaje **Java** y POO. | 11 horas |
+| **CURSO 2:** Fundamentos de Android | Estructura de la plataforma, $\text{Activities}$, *layouts*. | 11 horas |
+| **CURSO 3:** Desarrollo de aplicaciones con Android | Manejo de datos intermedio, $\text{Views}$ y ciclo de vida. | 24 horas |
+| **CURSO 4 (Actual):** Desarrollo de aplicaciones avanzadas con Android | **Integración de APIs**, $\text{Maps}$, $\text{Push Notifications}$, $\text{Wearables}$. | 23 horas |
+| **CURSO 5 (Pendiente):** Proyecto final - Construyendo una aplicación profesional con Android | Aplicación práctica completa y profesional. | 12 horas |
+
+### Temas Clave del Curso (Módulo 4):
+
+| Módulo | Enfoque Principal | Tecnologías y Conceptos |
+| :--- | :--- | :--- |
+| **Módulo 2** | **Web Services y Persistencia** | Consumo de **API REST** (Instagram), **Retrofit**, serialización **JSON** con **Gson**. |
+| **Módulo 3** | **API Google Maps** | Integración de mapas, uso de ubicación, **punteros personalizados**. |
+| **Módulo 4** | **Push Notifications** | Diseño y configuración de notificaciones (barra móvil). Uso de **Firebase Cloud Messaging (FCM)**. |
+| **Módulo 5** | **Wearables Android Wear** | Desarrollo para $\text{Android Wear}$, conexión **smartphone-emulador**, notificaciones específicas. |
+| **Módulo 6** | **Transiciones Material Design** | Aplicación de estilos con **Material Design**, creación de **animaciones y transiciones**. |
+
 ### Certificado de Finalización
+* **Enlace al Curso:** [https://www.coursera.org/programs/la-nueva-america-uyxoj/learn/aplicaciones-android?collectionId=3PUlf](https://www.coursera.org/programs/la-nueva-america-uyxoj/learn/aplicaciones-android?collectionId=3PUlf)
 * **Ver Certificado:** [https://coursera.org/share/9037eb94332578b07f259dd8ec66b7bb](https://coursera.org/share/9037eb94332578b07f259dd8ec66b7bb)
-    
+
 ---
 
 ## 📂 Archivos del Repositorio (Prototipos y Documentación)
@@ -57,5 +74,5 @@ Este repositorio contiene los archivos de diseño, prototipos y la documentació
 
 ## 🛠 Estado del Proyecto
 
-* **Fase Actual:** Desarrollo Avanzado / Integración de Servicios Web.
-* **Próximos Pasos:** Pruebas de usabilidad del prototipo y refinamiento de la interfaz.
+* **Fase Actual:** Desarrollo Avanzado / Integración de Servicios Web (Curso 4).
+* **Próximos Pasos:** Finalizar el programa especializado con el **Proyecto Final (Curso 5)**.
